@@ -1,0 +1,37 @@
+body{
+    font-family:'Trebychet MS', 'Lucide Grande', Arial, sana-serif;
+    background-image: url("g.png");
+    background-size:cover;
+    font-weight:bold;
+    color:white;
+    text-align:center;
+}
+
+h1{
+    margin-top: 80px;
+    color:goldenrod;
+    font-size: 100px;
+}
+
+p{
+    font-size: 40px;
+}
+
+#message-el
+{
+    font-style:normal;
+}
+
+button{
+    color: #016f32;
+    width: 200px;px;
+    height: 50px;
+    background:goldenrod;
+    padding-top:5px;
+    padding-bottom: 5px;
+    font-weight:bold;
+    border:none;
+    border-radius:2px;
+    margin-bottom:2px;
+    margin-top:2px;
+}
